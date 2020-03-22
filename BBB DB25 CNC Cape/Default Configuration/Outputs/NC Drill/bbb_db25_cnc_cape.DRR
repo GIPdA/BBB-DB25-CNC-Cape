@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: bbb_db25_cnc_cape.CSPcbDoc   22/03/2020  13:38:25
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : bbb_db25_cnc_cape.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          93               349.96 mm (13.78 Inch)
+T2        0.6mm (23.622mil)        Round          1                0.00 mm (0.00 Inch)
+T3        0.889mm (35mil)          Round          36               133.10 mm (5.24 Inch)
+T4        1mm (39.37mil)           Round          2                3.54 mm (0.14 Inch)
+T5        1.1mm (43.307mil)        Round          138              478.43 mm (18.84 Inch)
+T6        1.5mm (59.055mil)        Round          2                5.08 mm (0.20 Inch)
+T7        3.175mm (125mil)         Round          3                146.08 mm (5.75 Inch)
+T8        3.175mm (125mil)         Round          1         NPTH   0.00 mm (0.00 Inch)
+---------------------------------------------------------------------------
+Totals                                            276              1116.18 mm (43.94 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

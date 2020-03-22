@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: bbb_db25_terminals_extension.CSPcbDoc   22/03/2020  13:33:30
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : bbb_db25_terminals_extension.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15.75mil (0.40005mm)     Round          4                0.40 Inch (10.18 mm)
+T2        35mil (0.889mm)          Round          11               1.00 Inch (25.40 mm)
+T3        43.31mil (1.10007mm)     Round          26               3.10 Inch (78.74 mm)
+T4        55.12mil (1.40005mm)     Round          49               9.58 Inch (243.39 mm)
+T5        161.42mil (4.10007mm)    Round          5                9.98 Inch (253.55 mm)
+---------------------------------------------------------------------------
+Totals                                            95               24.07 Inch (611.26 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

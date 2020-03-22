@@ -1,0 +1,9 @@
+*.OutJob
+*.OutputStatus
+Status Report.Txt
+**/Gerber/*.RUL
+**/NC Drill/*.LDP
+
+**/__*
+**/Logs
+**/History
