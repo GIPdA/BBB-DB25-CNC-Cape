@@ -34,6 +34,7 @@ Pads with the white silkscreen are the one used by the cape (including the exten
 
 
 ![BBB DB25 CNC Cape](BBB DB25 CNC Cape/bbb_db25_cnc_cape wires.png)
+
 ![BBB DB25 CNC Cape](BBB DB25 CNC Cape/bbb_db25_cnc_cape bottom.png)
 
 ---
@@ -49,6 +50,7 @@ The bottom row can be stacked up on another PCB to use horizontal terminals if n
 Gerbers and other fab files are in folders ```bbb_db25_terminals_extension``` and ```bbb_db25_terminals_extension_top```.
 
 ![Terminals Extension](BBB DB25 Terminals Extension/bbb_db25_terminals_extension.png)
+
 ![Terminals Extension Top](BBB DB25 Terminals Extension/bbb_db25_terminals_extension_top.png)
 
 --
